@@ -1,1 +1,1 @@
-This repo consists of my data science projects.
+Provided data-driven strategies to identify optimal locations for new restaurants.
